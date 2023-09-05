@@ -2,7 +2,8 @@
 
 this is an u​n​b​l​o​c​k​i​n​g tool that is simple and reliable. it may not function correctly on all websites, as it was built in one file (`main.sh`)
 
-## setup:
+## replit setup:
+
 
 - open the "shell" tab on the right
 - type in ```sh main.sh```. you may have to retype it more than once.
